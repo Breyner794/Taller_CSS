@@ -1,0 +1,59 @@
+.titulo{
+    text-align: center;
+}
+/* .inicio{
+    text-align: left;
+}
+.articulo{
+    text-align: center;
+}
+.sobre_mi{
+    text-align: right;
+} */
+.categoria_botones{
+    text-align: center;
+}
+.box{
+    width: 500px;
+    height: 200px;
+    margin: 40px;
+    border: 2px solid black;
+    text-align:center;
+    align-content: center;
+}
+.articulo_1{
+    margin: 40px;
+    width: 500px;
+    height: 200px;
+    border: 2px solid;
+    text-align: center;
+    align-content: center;
+}
+.articulo_2{
+    margin: 40px;
+    width: 500px;
+    height: 200px;
+    border: 2px solid;
+    text-align: center;
+    align-content: center;
+}
+.categorias{
+    margin: 40px;
+    width: 200px;
+    height: 500px;
+    border: 2px solid;
+    align-content: center;
+}
+.piepagina{
+    text-align: center;
+    align-content: center;
+}
+.header .nav_opcion{
+    list-style: none;
+    text-align: center;
+}
+.header .nav_opcion li{
+    display: inline-block;
+    padding: 50px;
+    
+}
