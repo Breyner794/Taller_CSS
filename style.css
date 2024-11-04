@@ -22,7 +22,7 @@
     align-content: center;
 }
 .articulo_1{
-    margin: 40px;
+    margin: 30px;
     width: 500px;
     height: 200px;
     border: 2px solid;
@@ -30,7 +30,7 @@
     align-content: center;
 }
 .articulo_2{
-    margin: 40px;
+    margin: 30px;
     width: 500px;
     height: 200px;
     border: 2px solid;
@@ -38,15 +38,21 @@
     align-content: center;
 }
 .categorias{
-    margin: 40px;
-    width: 200px;
-    height: 500px;
+    margin: 0 auto;
+    width: 190px;
+    height: 460px;
     border: 2px solid;
     align-content: center;
+    background-color: rgba(169, 169, 169, 0.21);
+    position: relative;
+    right: -550px;
+    top: -480px;
+    
 }
 .piepagina{
     text-align: center;
     align-content: center;
+    background-color: rgba(169, 169, 169, 0.444);
 }
 .header .nav_opcion{
     list-style: none;
@@ -55,5 +61,7 @@
 .header .nav_opcion li{
     display: inline-block;
     padding: 50px;
-    
+}
+.articulo_general{
+    border: 20px solid;
 }
